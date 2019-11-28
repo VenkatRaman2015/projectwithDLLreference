@@ -1,0 +1,14 @@
+{
+  "ErrorInfo": [
+    {
+      "ErrorStutusCode": 202,
+      "ErrorMessage": "Accepted"
+
+    },
+    {
+      "ErrorStutusCode": 500,
+      "ErrorMessage": "InternalServerError"
+
+    }
+  ]
+}

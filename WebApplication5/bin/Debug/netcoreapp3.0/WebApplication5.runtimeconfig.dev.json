@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\veyadav\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\veyadav\\.nuget\\packages"
+    ]
+  }
+}
